@@ -33,8 +33,8 @@
     "opacity": 1
   },
   "lockCode": "0527",
-  "lockWallpaper": "assets/1.jpg",
-  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaper": "1.jpg",
+  "homeWallpaper": "2.jpg",
   "lockWallpaperStyle": "aurora",
   "homeWallpaperStyle": "aurora",
   "showApps": {
@@ -417,84 +417,84 @@
   "photos": [
     {
       "id": "c1e30d0e-9fdf-44bd-82ed-63f193f92472",
-      "src": "assets/3.jpg",
+      "src": "3.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "a44793f4-c6ab-4305-afed-fad8ba8b0844",
-      "src": "assets/4.jpg",
+      "src": "4.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "4be78352-68bf-42e7-b729-6be91683afd8",
-      "src": "assets/5.jpg",
+      "src": "5.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "8776a44c-3f73-4b5d-90a3-48846164a84a",
-      "src": "assets/6.jpg",
+      "src": "6.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "47f5b333-d41e-4c26-a451-e82e8d5de27d",
-      "src": "assets/7.jpg",
+      "src": "7.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "1c964b83-2730-49b0-aa8c-5e7b51bc8067",
-      "src": "assets/8.jpg",
+      "src": "8.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "4219e8da-8c19-4d0e-9741-3fb0df7f7b28",
-      "src": "assets/9.jpg",
+      "src": "9.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "66dabf08-1479-43aa-ac66-03751ce16066",
-      "src": "assets/10.jpg",
+      "src": "10.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "eee67065-1e0e-4270-9214-f77b3871baca",
-      "src": "assets/11.jpg",
+      "src": "11.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "a6e3f5fe-de06-4b9e-b815-1c2a7d8f0f94",
-      "src": "assets/12.jpg",
+      "src": "12.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "46e800a9-7c50-41f3-ba85-8ccbc5737a07",
-      "src": "assets/13.jpg",
+      "src": "13.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
     },
     {
       "id": "0df31d8c-0400-4b2f-87ba-0a11eddb5339",
-      "src": "assets/14.jpg",
+      "src": "14.jpg",
       "caption": "",
       "date": "2026-10-19",
       "favorite": false
@@ -522,7 +522,7 @@
         "id": "dce4766c-f6e7-4478-9937-9286d9ca5975",
         "title": " Sparkle",
         "artist": "Radwimps",
-        "cover": "assets/15.png",
+        "cover": "15.png",
         "audio": null,
         "youtubeUrl": "https://www.youtube.com/watch?v=a2GujJZfXpg"
       },
@@ -530,7 +530,7 @@
         "id": "f1a4c767-8334-4c7f-9006-a6f588d1ba5c",
         "title": "안아줘",
         "artist": "정준일",
-        "cover": "assets/16.png",
+        "cover": "16.png",
         "audio": null,
         "youtubeUrl": ""
       },
@@ -538,7 +538,7 @@
         "id": "915e78ed-88d4-47d9-b7c0-8ea706700e55",
         "title": "기억을 걷는 시간",
         "artist": "넬",
-        "cover": "assets/17.png",
+        "cover": "17.png",
         "audio": null,
         "youtubeUrl": "https://www.youtube.com/watch?v=0bTCIbyvBBc"
       },
@@ -546,7 +546,7 @@
         "id": "6435c3c3-2ad0-4821-8db6-cdb98d895684",
         "title": "어떻게 이별까지 사랑하겠어 널 사랑하는 거지",
         "artist": "악동뮤지션",
-        "cover": "assets/18.png",
+        "cover": "18.png",
         "audio": null,
         "youtubeUrl": "https://www.youtube.com/watch?v=__WOmFwDJI4"
       },
@@ -554,7 +554,7 @@
         "id": "beb172e4-1dbe-4449-966f-b01d975d4320",
         "title": "I Love You",
         "artist": "김재환",
-        "cover": "assets/19.png",
+        "cover": "19.png",
         "audio": null,
         "youtubeUrl": "https://www.youtube.com/watch?v=NUm0IKBA1-Q"
       },
@@ -562,7 +562,7 @@
         "id": "c6d59c1f-cd8f-4985-b589-e0cfdb8418ed",
         "title": "그렇게 널",
         "artist": "김재환",
-        "cover": "assets/20.png",
+        "cover": "20.png",
         "audio": null,
         "youtubeUrl": "https://www.youtube.com/watch?v=uwGocIm8AFA"
       },
@@ -570,7 +570,7 @@
         "id": "c7703f8d-74d0-4328-8fdb-b92c5799416e",
         "title": "사랑이라 부를지도 모를 거야",
         "artist": "김재환",
-        "cover": "assets/21.png",
+        "cover": "21.png",
         "audio": null,
         "youtubeUrl": "https://www.youtube.com/watch?v=U2GPFUaulWM"
       }
@@ -641,8 +641,8 @@
         "name": "김재환KIM JAE HWAN",
         "handle": "KJH_officaltwt",
         "bio": "김재환 Single Album 'Love, From Here'\n2026.10.07 (WED) 6PM (KST)\n\n2026 김재환 콘서트 '여백:餘白’\n2026.10.31 (SAT) 6PM - 11.01 (SUN) 5PM",
-        "avatar": "assets/22.jpg",
-        "banner": "assets/23.jpg",
+        "avatar": "22.jpg",
+        "banner": "23.jpg",
         "followers": "240,527",
         "following": "2"
       },
@@ -651,8 +651,8 @@
         "name": "황민현 (HWANG MIN HYUN)",
         "handle": "MINHYUN_PLEDIS",
         "bio": "#황민현 #HWANGMINHYUN Official X(Twitter)",
-        "avatar": "assets/24.jpg",
-        "banner": "assets/25.jpg",
+        "avatar": "24.jpg",
+        "banner": "25.jpg",
         "followers": "150,809",
         "following": "2"
       }
@@ -664,7 +664,7 @@
         "text": "황민현 (HWANG MIN HYUN) 'OUR' Official MV \n\n▶️ youtu.be/vGL5tyee4Xw \n\n#황민현 #HWANGMINHYUN\n#OUR",
         "date": "2026-10-07",
         "images": [
-          "assets/26.jpg"
+          "26.jpg"
         ],
         "time": "18:00",
         "likes": "4850",
@@ -678,7 +678,7 @@
         "text": "김재환 Single Album [Love, From Here] \n‘사랑이라 부를지도 모를 거야 (Call It Love)’ M/V \n\n📍 youtu.be/U2GPFUaulWM\n\n#김재환 #KIMJAEHWAN \n#Love_From_Here\n#사랑이라부를지도모를거야 #CallItLove",
         "date": "2026-10-07",
         "images": [
-          "assets/27.jpg"
+          "27.jpg"
         ],
         "time": "18:00",
         "likes": "1942",
@@ -692,7 +692,7 @@
         "text": "[COVER] 황민현 (HWANG MIN HYUN) - Sparkle (원곡 : Radwimps)\n\n▶️ youtu.be/o_kjmWr41hM\n\n#황민현 #HWANGMINHYUN #Sparkle",
         "date": "2026-08-09",
         "images": [
-          "assets/28.jpg"
+          "28.jpg"
         ],
         "time": "19:00",
         "likes": "4809",
@@ -705,7 +705,7 @@
         "text": "김재환 Single Album [Love, From Here] \n‘사랑이라 부를지도 모를 거야 (Call It Love)’ M/V \n\n📍 youtu.be/U2GPFUaulWM\n\n#김재환 #KIMJAEHWAN \n#Love_From_Here\n#사랑이라부를지도모를거야 #CallItLove",
         "date": "2026-04-22",
         "images": [
-          "assets/29.jpg"
+          "29.jpg"
         ],
         "time": "00:00",
         "likes": "1598",
