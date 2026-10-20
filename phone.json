@@ -1,0 +1,731 @@
+{
+  "version": 1,
+  "id": "bb4ee597-9c3e-4322-9fac-e274b662c54f",
+  "title": "황민현",
+  "owner": "황민현",
+  "ownerAvatar": null,
+  "ownerInfo": {
+    "phone": "010-1995-0809"
+  },
+  "theme": "light",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "00:44",
+  "date": "2026-10-19",
+  "clockMode": "current",
+  "lockTextTone": "light",
+  "lockWallpaperTransform": {
+    "x": 100,
+    "y": 50,
+    "scale": 1
+  },
+  "homeWallpaperTransform": {
+    "x": 0,
+    "y": 50,
+    "scale": 1
+  },
+  "lockWallpaperEffects": {
+    "blur": 0,
+    "opacity": 1
+  },
+  "homeWallpaperEffects": {
+    "blur": 22,
+    "opacity": 1
+  },
+  "lockCode": "0527",
+  "lockWallpaper": "assets/1.jpg",
+  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": true,
+    "calendar": true,
+    "diary": true,
+    "scrapbook": true,
+    "sns": true,
+    "calls": true
+  },
+  "appLayout": {
+    "home": [
+      "sns",
+      "music",
+      "diary",
+      "calendar",
+      "scrapbook",
+      "notes",
+      "photos",
+      "calls"
+    ],
+    "dock": [
+      "messages",
+      "contacts"
+    ]
+  },
+  "homeSlots": {
+    "photos": 16,
+    "notes": 13,
+    "music": 9,
+    "calendar": 11,
+    "diary": 10,
+    "scrapbook": 12,
+    "sns": 8,
+    "calls": 17
+  },
+  "widgets": [
+    {
+      "id": "6d2b751b-fd60-4264-baf9-e1c90e27efd7",
+      "type": "music",
+      "size": "4x2",
+      "slot": 0,
+      "trackId": "dce4766c-f6e7-4478-9937-9286d9ca5975",
+      "style": "player"
+    },
+    {
+      "id": "f5559245-7936-4c0f-b0a2-cc975fb85bd4",
+      "type": "dday",
+      "size": "2x2",
+      "slot": 14,
+      "title": ".",
+      "date": "2017-06-16",
+      "countStart": false,
+      "src": null,
+      "style": "photo"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1d87f0c5-4c62-4f9b-80b8-41b985753595",
+      "name": "아빠",
+      "subtitle": "",
+      "phone": "010-2222-3333",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "874b16e4-fae4-42c0-9beb-58862e7d62ca",
+      "name": "엄마",
+      "subtitle": "",
+      "phone": "010-1111-2222",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "346563ad-accb-409c-9281-baf2f59a1640",
+      "name": "재환이",
+      "subtitle": "",
+      "phone": "010-1996-0527",
+      "favorite": false,
+      "avatar": null
+    }
+  ],
+  "threads": [
+    {
+      "id": "8dbafa65-b720-4715-b317-b6aaba170528",
+      "contactId": "346563ad-accb-409c-9281-baf2f59a1640",
+      "messages": [
+        {
+          "id": "6c7d15be-6893-46cd-99e1-644483521bad",
+          "kind": "date",
+          "text": "2017년 3월 9일 목요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2017,
+            "month": 3,
+            "day": 9,
+            "weekday": 4
+          }
+        },
+        {
+          "id": "e843e1d6-6609-41c2-97fb-64110dc04725",
+          "from": "them",
+          "text": "쏘리쏘리 2조 개인연습생 김재환입니다! 잘 부탁드립니다ㅎㅎ",
+          "time": "16:59"
+        },
+        {
+          "id": "489ddde9-b8dd-4e75-b932-39021947858e",
+          "from": "me",
+          "text": "플레디스 황민현입니다 잘 부탁드려요!",
+          "time": "16:59"
+        },
+        {
+          "id": "3bffd5f0-7a8b-4a59-b0e6-44f7cfda51cd",
+          "kind": "date",
+          "text": "2017년 6월 16일 금요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2017,
+            "month": 6,
+            "day": 16,
+            "weekday": 5
+          }
+        },
+        {
+          "id": "61e603c8-4cf2-4c1f-a1ff-562683926006",
+          "from": "me",
+          "text": "할 말 있어 녹화 끝나고 보자",
+          "time": "17:01"
+        },
+        {
+          "id": "dc6a7b14-95b4-47d0-8c80-b8adc7f77c1d",
+          "kind": "date",
+          "text": "2017년 8월 7일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2017,
+            "month": 8,
+            "day": 7,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "c46b63a3-78e1-40bb-bf1b-de3d25f31f20",
+          "from": "them",
+          "text": "형 데뷔 축하해요!! 앞으로도 잘 부탁해요",
+          "time": "17:02"
+        },
+        {
+          "id": "6e4e57ba-89c1-4abb-a20f-06571eed108b",
+          "from": "me",
+          "text": "재환이도 데뷔 축하해🤍",
+          "time": "17:03"
+        },
+        {
+          "id": "d7f390d7-0388-4f73-a3f6-4ec7c4bb34aa",
+          "kind": "date",
+          "text": "2019년 1월 26일 토요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2019,
+            "month": 1,
+            "day": 26,
+            "weekday": 6
+          }
+        },
+        {
+          "id": "ad0bd0ac-04b5-4a6c-a3a6-064691993761",
+          "from": "them",
+          "text": "형 진짜 고마워요 항상",
+          "time": "17:05"
+        },
+        {
+          "id": "8e8fec41-f15e-41de-90f8-2f7590dd2357",
+          "kind": "date",
+          "text": "2019년 1월 27일 일요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2019,
+            "month": 1,
+            "day": 27,
+            "weekday": 0
+          }
+        },
+        {
+          "id": "c9815b19-9b90-41fe-93e4-ebbe1aa1fe59",
+          "from": "me",
+          "text": "벌써 1년 반이라는 시간이 흘러서 오지 않았으면 하는 날이 왔네. 재환이랑 활동하는 동안 하루도 빠짐없이 행복했어 항상 고마워~ 우리는 꾸준히 만날 거지만, 한동안 이 순간이 그리울 것 같아 많이 사랑해 너무 많이 울지는 마",
+          "time": "17:13"
+        },
+        {
+          "id": "609408f9-fc71-49d8-92d9-5be9520ac9f7",
+          "kind": "date",
+          "text": "2021년 12월 11일 토요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2021,
+            "month": 12,
+            "day": 11,
+            "weekday": 6
+          }
+        },
+        {
+          "id": "18de24ac-8e54-4f8e-952e-c9401954008a",
+          "from": "them",
+          "text": "형 끝나고 고기 먹을래요?",
+          "time": "17:17"
+        },
+        {
+          "id": "1acc55e4-37dd-4b54-84bb-476b3d26305d",
+          "from": "me",
+          "text": "좋아",
+          "time": "17:17"
+        },
+        {
+          "id": "a8479413-e9f8-4e24-b130-39e690874091",
+          "kind": "date",
+          "text": "2024년 7월 1일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2024,
+            "month": 7,
+            "day": 1,
+            "weekday": 1
+          }
+        },
+        {
+          "id": "5fb3d580-bcc7-4d75-8272-0cb680d0244d",
+          "from": "me",
+          "text": "보고 싶을 거야~ㅜㅜ",
+          "time": "17:23"
+        },
+        {
+          "id": "bf257c5d-f764-46e7-b1e6-afdec9fef301",
+          "from": "them",
+          "text": "놀리는 거죠...",
+          "time": "17:23"
+        },
+        {
+          "id": "07379515-7892-447f-96a7-c7eeaf28d303",
+          "from": "me",
+          "text": "진심이지🫶",
+          "time": "17:24"
+        },
+        {
+          "id": "099159ae-4949-4dfe-a9e5-f5ffe3e2dc5c",
+          "kind": "date",
+          "text": "2025년 12월 31일 수요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2025,
+            "month": 12,
+            "day": 31,
+            "weekday": 3
+          }
+        },
+        {
+          "id": "d7e7b581-3b62-4dbd-bc6e-e0bfbb65b3cb",
+          "from": "me",
+          "text": "전역 축하해🤍 내일 봐",
+          "time": "17:28"
+        },
+        {
+          "id": "410ffc2d-8c14-4428-ba04-7ffc89aedcd8",
+          "kind": "date",
+          "text": "2026년 4월 22일 수요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2026,
+            "month": 4,
+            "day": 22,
+            "weekday": 3
+          }
+        },
+        {
+          "id": "81805503-ab49-4a09-b396-f2de467deb71",
+          "from": "me",
+          "text": "컴백 축하해~",
+          "time": "17:32"
+        },
+        {
+          "id": "c4ee69b9-3411-465e-ab5a-2d608d209f27",
+          "from": "them",
+          "text": "댓글 뭐예요ㅋㅋㅋ",
+          "time": "17:32"
+        },
+        {
+          "id": "ee59842a-b531-46ef-b229-2a1ad3760b35",
+          "from": "them",
+          "text": "팬분들이 오해해요",
+          "time": "17:33"
+        },
+        {
+          "id": "263da521-f779-4655-9be4-42bea6180d48",
+          "from": "me",
+          "text": "뭐 어때",
+          "time": "17:34"
+        },
+        {
+          "id": "25ed26d9-9715-4afc-98e9-e8d02f092106",
+          "kind": "date",
+          "text": "2026년 6월 2일 화요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2026,
+            "month": 6,
+            "day": 2,
+            "weekday": 2
+          }
+        },
+        {
+          "id": "6d0c33db-a154-43e2-b164-a8d2f7b1a40b",
+          "from": "them",
+          "text": "옛날 생각난다...",
+          "time": "17:35"
+        },
+        {
+          "id": "3813f3be-a8c7-49b6-9377-0d887fdd0fd3",
+          "from": "me",
+          "text": "그러게 ㅎㅎ 시간 진짜 빠르다",
+          "time": "17:35"
+        },
+        {
+          "id": "33f7ccb0-cdaa-46a6-a7f9-6305c3573840",
+          "kind": "date",
+          "text": "2026년 10월 7일 수요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2026,
+            "month": 10,
+            "day": 7,
+            "weekday": 3
+          }
+        },
+        {
+          "id": "5bdda8e6-fa5a-4b30-b490-c3bff0df7898",
+          "from": "them",
+          "text": "컴백 축하해요! 음방에서 봐요ㅎㅎ",
+          "time": "17:37"
+        },
+        {
+          "id": "ac85daed-46dc-47d4-8c4f-d3dfd2952c30",
+          "from": "me",
+          "text": "재환이도 컴백 축하해~",
+          "time": "17:37"
+        },
+        {
+          "id": "6ab6c62e-4a3e-4912-a6c5-a04807b0400f",
+          "kind": "date",
+          "text": "2026년 10월 11일 일요일",
+          "dateParts": {
+            "mode": "calendar",
+            "year": 2026,
+            "month": 10,
+            "day": 11,
+            "weekday": 0
+          }
+        },
+        {
+          "id": "1bd4d1fc-5e2a-48af-9340-98cd5326ad7f",
+          "from": "them",
+          "text": "오늘 형 때문에 떨려서 노래가 안 됐어요ㅋㅋㅋ",
+          "time": "17:39"
+        },
+        {
+          "id": "82a0e6c9-c5e5-41dd-a05c-55901658de5a",
+          "from": "me",
+          "text": "새삼스럽네",
+          "time": "17:39"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "c1e30d0e-9fdf-44bd-82ed-63f193f92472",
+      "src": "assets/3.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "a44793f4-c6ab-4305-afed-fad8ba8b0844",
+      "src": "assets/4.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "4be78352-68bf-42e7-b729-6be91683afd8",
+      "src": "assets/5.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "8776a44c-3f73-4b5d-90a3-48846164a84a",
+      "src": "assets/6.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "47f5b333-d41e-4c26-a451-e82e8d5de27d",
+      "src": "assets/7.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "1c964b83-2730-49b0-aa8c-5e7b51bc8067",
+      "src": "assets/8.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "4219e8da-8c19-4d0e-9741-3fb0df7f7b28",
+      "src": "assets/9.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "66dabf08-1479-43aa-ac66-03751ce16066",
+      "src": "assets/10.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "eee67065-1e0e-4270-9214-f77b3871baca",
+      "src": "assets/11.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "a6e3f5fe-de06-4b9e-b815-1c2a7d8f0f94",
+      "src": "assets/12.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "46e800a9-7c50-41f3-ba85-8ccbc5737a07",
+      "src": "assets/13.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "0df31d8c-0400-4b2f-87ba-0a11eddb5339",
+      "src": "assets/14.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "03e1f9a9-e5d3-48b2-badf-cca91ec479e2",
+      "title": "떨려?ㅋㅋㅋ",
+      "body": "네ㅠㅠ\n잘 할 거야~",
+      "pinned": false,
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "b9036320-8f4a-4d75-93fb-c5cc67ecb54b",
+      "title": "할 일",
+      "body": "장 보고 재환이 저녁\n집 정리\n보컬 레슨",
+      "pinned": false,
+      "updated": "2026-10-20"
+    }
+  ],
+  "music": {
+    "tracks": [
+      {
+        "id": "dce4766c-f6e7-4478-9937-9286d9ca5975",
+        "title": " Sparkle",
+        "artist": "Radwimps",
+        "cover": "assets/15.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=a2GujJZfXpg"
+      },
+      {
+        "id": "f1a4c767-8334-4c7f-9006-a6f588d1ba5c",
+        "title": "안아줘",
+        "artist": "정준일",
+        "cover": "assets/16.png",
+        "audio": null,
+        "youtubeUrl": ""
+      },
+      {
+        "id": "915e78ed-88d4-47d9-b7c0-8ea706700e55",
+        "title": "기억을 걷는 시간",
+        "artist": "넬",
+        "cover": "assets/17.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=0bTCIbyvBBc"
+      },
+      {
+        "id": "6435c3c3-2ad0-4821-8db6-cdb98d895684",
+        "title": "어떻게 이별까지 사랑하겠어 널 사랑하는 거지",
+        "artist": "악동뮤지션",
+        "cover": "assets/18.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=__WOmFwDJI4"
+      },
+      {
+        "id": "beb172e4-1dbe-4449-966f-b01d975d4320",
+        "title": "I Love You",
+        "artist": "김재환",
+        "cover": "assets/19.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=NUm0IKBA1-Q"
+      },
+      {
+        "id": "c6d59c1f-cd8f-4985-b589-e0cfdb8418ed",
+        "title": "그렇게 널",
+        "artist": "김재환",
+        "cover": "assets/20.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=uwGocIm8AFA"
+      },
+      {
+        "id": "c7703f8d-74d0-4328-8fdb-b92c5799416e",
+        "title": "사랑이라 부를지도 모를 거야",
+        "artist": "김재환",
+        "cover": "assets/21.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=U2GPFUaulWM"
+      }
+    ],
+    "playlists": [
+      {
+        "id": "055e1bc9-1555-4cc1-b5a1-a98088269f99",
+        "title": "Playlist",
+        "description": "",
+        "cover": null,
+        "trackIds": [
+          "dce4766c-f6e7-4478-9937-9286d9ca5975",
+          "f1a4c767-8334-4c7f-9006-a6f588d1ba5c",
+          "915e78ed-88d4-47d9-b7c0-8ea706700e55",
+          "6435c3c3-2ad0-4821-8db6-cdb98d895684"
+        ]
+      },
+      {
+        "id": "f4441a68-101e-4432-9261-a0e2dfa1b41f",
+        "title": ".",
+        "description": "",
+        "cover": null,
+        "trackIds": [
+          "beb172e4-1dbe-4449-966f-b01d975d4320",
+          "c6d59c1f-cd8f-4985-b589-e0cfdb8418ed",
+          "c7703f8d-74d0-4328-8fdb-b92c5799416e"
+        ]
+      }
+    ]
+  },
+  "diary": {
+    "entries": [
+      {
+        "id": "3a1d6836-658b-46af-b6fd-442291ff40f0",
+        "title": "190127",
+        "date": "2019-01-27",
+        "mood": "",
+        "body": "마지막이란 항상 아쉬움만 남는 것 같다 지금보다 훨씬 긴 시간이 지나도 사랑한다 말하고 싶다.",
+        "photos": []
+      },
+      {
+        "id": "fdac78a5-505a-422e-badb-27dc016720f5",
+        "title": "260422",
+        "date": "2026-04-22",
+        "mood": "",
+        "body": "여전히 많이 사랑해 너도 그렇겠지만",
+        "photos": []
+      }
+    ]
+  },
+  "scrapbook": {
+    "boards": []
+  },
+  "sns": {
+    "profile": {
+      "name": ".",
+      "handle": "809.secret",
+      "bio": "",
+      "link": "",
+      "followers": "0",
+      "following": "2",
+      "avatar": null,
+      "banner": null
+    },
+    "accounts": [
+      {
+        "id": "94b30aa6-ba34-4840-9750-a99abe80a00b",
+        "name": "김재환KIM JAE HWAN",
+        "handle": "KJH_officaltwt",
+        "bio": "김재환 Single Album 'Love, From Here'\n2026.10.07 (WED) 6PM (KST)\n\n2026 김재환 콘서트 '여백:餘白’\n2026.10.31 (SAT) 6PM - 11.01 (SUN) 5PM",
+        "avatar": "assets/22.jpg",
+        "banner": "assets/23.jpg",
+        "followers": "240,527",
+        "following": "2"
+      },
+      {
+        "id": "55d75e6e-db30-46fa-a244-cf79d7ec426e",
+        "name": "황민현 (HWANG MIN HYUN)",
+        "handle": "MINHYUN_PLEDIS",
+        "bio": "#황민현 #HWANGMINHYUN Official X(Twitter)",
+        "avatar": "assets/24.jpg",
+        "banner": "assets/25.jpg",
+        "followers": "150,809",
+        "following": "2"
+      }
+    ],
+    "posts": [
+      {
+        "id": "ccf76915-3a5e-4f24-94d5-ecf0e701ba8e",
+        "authorId": "55d75e6e-db30-46fa-a244-cf79d7ec426e",
+        "text": "황민현 (HWANG MIN HYUN) 'OUR' Official MV \n\n▶️ youtu.be/vGL5tyee4Xw \n\n#황민현 #HWANGMINHYUN\n#OUR",
+        "date": "2026-10-07",
+        "images": [
+          "assets/26.jpg"
+        ],
+        "time": "18:00",
+        "likes": "4850",
+        "reposts": "1942",
+        "replyCount": "9",
+        "pinned": true
+      },
+      {
+        "id": "0c139cb4-3458-41be-bea9-3f7ad21c56dd",
+        "authorId": "94b30aa6-ba34-4840-9750-a99abe80a00b",
+        "text": "김재환 Single Album [Love, From Here] \n‘사랑이라 부를지도 모를 거야 (Call It Love)’ M/V \n\n📍 youtu.be/U2GPFUaulWM\n\n#김재환 #KIMJAEHWAN \n#Love_From_Here\n#사랑이라부를지도모를거야 #CallItLove",
+        "date": "2026-10-07",
+        "images": [
+          "assets/27.jpg"
+        ],
+        "time": "18:00",
+        "likes": "1942",
+        "reposts": "932",
+        "replyCount": "8",
+        "pinned": true
+      },
+      {
+        "id": "3afb7458-95f5-4acd-9bd1-d8a00fc23d04",
+        "authorId": "55d75e6e-db30-46fa-a244-cf79d7ec426e",
+        "text": "[COVER] 황민현 (HWANG MIN HYUN) - Sparkle (원곡 : Radwimps)\n\n▶️ youtu.be/o_kjmWr41hM\n\n#황민현 #HWANGMINHYUN #Sparkle",
+        "date": "2026-08-09",
+        "images": [
+          "assets/28.jpg"
+        ],
+        "time": "19:00",
+        "likes": "4809",
+        "reposts": "2840",
+        "replyCount": "23"
+      },
+      {
+        "id": "9c6f594b-bdf3-445a-ac4e-0d35d65aee53",
+        "authorId": "94b30aa6-ba34-4840-9750-a99abe80a00b",
+        "text": "김재환 Single Album [Love, From Here] \n‘사랑이라 부를지도 모를 거야 (Call It Love)’ M/V \n\n📍 youtu.be/U2GPFUaulWM\n\n#김재환 #KIMJAEHWAN \n#Love_From_Here\n#사랑이라부를지도모를거야 #CallItLove",
+        "date": "2026-04-22",
+        "images": [
+          "assets/29.jpg"
+        ],
+        "time": "00:00",
+        "likes": "1598",
+        "reposts": "1257",
+        "replyCount": "11",
+        "replies": [
+          {
+            "id": "530dd55b-7a02-4849-98b5-eda5aa9d485e",
+            "authorId": "guest",
+            "author": {
+              "name": ".",
+              "handle": "809.secret"
+            },
+            "text": "재환아…🫶 훨훨 날아오르자",
+            "date": "2026-04-22"
+          }
+        ]
+      }
+    ]
+  },
+  "calls": [],
+  "updatedAt": "2026-10-20T13:20:11.935Z"
+}
